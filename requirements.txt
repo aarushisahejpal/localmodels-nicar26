@@ -1,0 +1,6 @@
+openai
+ipykernel
+scikit-learn
+plotly
+pandas
+nbformat
