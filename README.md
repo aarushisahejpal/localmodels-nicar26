@@ -2,6 +2,10 @@
 
 Notebooks for running LLMs locally via [LM Studio](https://lmstudio.ai). Requires a model loaded in LM Studio at `http://localhost:1234`.
 
+## Slides
+
+https://docs.google.com/presentation/d/1duNaJyPIXBXSmjYcPfQ_fc5v_-JTsuB-D4F5Qg63vNE/edit?slide=id.g3cd435e2541_0_40#slide=id.g3cd435e2541_0_40
+
 ## Installation
 
 ```bash
