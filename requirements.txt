@@ -4,6 +4,7 @@ ipykernel
 scikit-learn
 plotly
 pandas
+pydantic
 nbformat
 python-dotenv
 
