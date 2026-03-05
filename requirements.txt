@@ -4,3 +4,6 @@ scikit-learn
 plotly
 pandas
 nbformat
+python-dotenv
+
+tqdm
