@@ -19,4 +19,3 @@ Then open [LM Studio](https://lmstudio.ai), load a model, and start the local se
 - **3-clustering** — Clusters session embeddings with HDBSCAN and names each cluster using a local LLM.
 - **4-conflicts-of-interest** — Extracts author–company conflict relationships from a COI statement into a table.
 - **5-conflict-of-interest-structured-outputs** — Same as #4 but uses a JSON schema to guarantee structured, parseable output.
-- **5-structured-outputs** — General structured outputs demo using JSON schema enforcement with a local LLM.
